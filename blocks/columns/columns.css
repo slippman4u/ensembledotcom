@@ -17,6 +17,8 @@
 
 .columns > div > .columns-img-col img {
   display: block;
+  object-fit: cover;
+  max-height: 520px;
 }
 
 @media (width >= 900px) {
